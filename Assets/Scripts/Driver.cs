@@ -5,13 +5,12 @@ using UnityEngine;
 public class Driver : MonoBehaviour
 {
 
-    [SerializeField] float turnSpeed = 90f;
+    [SerializeField] float turnSpeed = 110f;
     [SerializeField] float moveSpeed = 8f;
     void Start()
     {
 
     }
-
 
     void Update()
     {
