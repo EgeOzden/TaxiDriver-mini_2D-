@@ -6,6 +6,8 @@ TagManager:
   tags:
   - customer
   - stop
+  - boost
+  - debuff
   layers:
   - Default
   - TransparentFX
