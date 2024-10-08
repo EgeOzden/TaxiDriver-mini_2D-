@@ -7,7 +7,7 @@ using UnityEngine;
 public class Collision : MonoBehaviour
 {
 
-    float delay = 3f;
+    float delay = 4.2f;
     bool statu;
     [SerializeField] Color32 statu_color;
     SpriteRenderer sprite_renderer;
